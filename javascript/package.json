@@ -11,7 +11,7 @@
     "debug": "2.6.9",
     "ua-parser-js": "0.7.32",
     "engine.io": "3.6.0",
-    "flat": "5.0.0",
+    "flat": "5.0.1",
     "electron": "19.0.0",
     "loader-utils": "1.0.0"
   }
