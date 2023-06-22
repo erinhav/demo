@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyyaml = "<3.12,>=3.11"
+
+[dev-packages]
+pillow = ">=2.4.0,<5.3.1"
+
+[requires]
+python_version = "3.9"
